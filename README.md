@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, .NET Core**
 
-- 📃 My personal page **huseyinsenkaya.com**
+- 📃 My personal page [huseyinsenkaya.com](https://huseyinsenkaya.com/)
   
 - 📫 How to reach me **khuseyin504@gmail.com**
 
